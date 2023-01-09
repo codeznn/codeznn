@@ -26,7 +26,7 @@
 
 ### My Projects
 * [Ztack overflow - Stack overflow clone](https://ztack-overflow.onrender.com)
-* [Airdnd - airbnb clone](https://airbnb-znn.herokuapp.com/)
+* [AirZnZ - Airbnb clone](https://airbnb-znn.herokuapp.com/)
 * [Anya - Etsy clone](https://anya-etsy.onrender.com/)
 
 <!--
